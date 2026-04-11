@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👋 Hello, I'm Varad Patel 
+# 👋 Hello, I'm Varad Patel
 
 ### Full Stack Developer | MERN Enthusiast | Problem Solver
 
