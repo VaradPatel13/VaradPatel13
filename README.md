@@ -18,7 +18,7 @@
 I'm a passionate **MERN Stack Developer** with a keen interest in building scalable web applications and exploring the frontiers of **AI and Automation**. I love turning complex problems into simple, beautiful, and intuitive solutions.
 
 - 🔭 Currently build project: **[MERN Blog Website](https://github.com/VaradPatel13/Mern-blogwebsite-backend-)**
-- 🌱 Learning: **AI, Automation & Advanced Backend Systems**
+- 🌱 Learning: **Advanced Backend Systems**
 - 💡 Exploring: **AI & Automation**
 - 📧 Reach me: **varadpatelo355@gmail.com**
 - 📄 [View My Resume](https://drive.google.com/file/d/1bnSqcPrrHJ3NHSFbNMnUQgMGOLPLm3VH/view?usp=sharing)
