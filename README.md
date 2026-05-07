@@ -13,7 +13,7 @@
 
 ---
 
-## 🚀 About Me
+## 🚀 About Me 
 
 I'm a passionate **MERN Stack Developer** with a keen interest in building scalable web applications and exploring the frontiers of **AI and Automation**. I love turning complex problems into simple, beautiful, and intuitive solutions.
 
