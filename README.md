@@ -1,9 +1,8 @@
 <div align="center">
 
-  
 # 👋 Hello, I'm Varad Patel
 
-### Full Stack Developer | MERN Enthusiast | Problem Solver
+### Full Stack Developer | MERN Enthusiast | AI & Automation Explorer
 
 [![Profile Views](https://komarev.com/ghpvc/?username=varadpatel13&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/varadpatel13)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/varad-patel/)
@@ -13,24 +12,28 @@
 
 ---
 
-## 🚀 About Me 
+## 🚀 About Me
 
 I'm a passionate **MERN Stack Developer** with a keen interest in building scalable web applications and exploring the frontiers of **AI and Automation**. I love turning complex problems into simple, beautiful, and intuitive solutions.
 
-- 🔭 Currently build project: **[MERN Blog Website](https://github.com/VaradPatel13/Mern-blogwebsite-backend-)**
-- 🌱 Learning: **Advanced Backend Systems**
+- 🎓 B.Tech in Computer Engineering @ **R.C. Patel Institute of Technology, Shirpur**
+- 💼 Currently: **Backend Engineer Intern @ Tagowls** (Creator Commerce Platform)
+- 🔭 Building: **[StudyMate.io](https://github.com/VaradPatel13)** – AI Study Companion
+- 🌱 Learning: **Advanced Backend Systems & System Design**
 - 💡 Exploring: **AI & Automation**
+- 🏆 Google Student Ambassador 2025 | GSSoC'25 Contributor
 - 📧 Reach me: **varadpatelo355@gmail.com**
 - 📄 [View My Resume](https://drive.google.com/file/d/1bnSqcPrrHJ3NHSFbNMnUQgMGOLPLm3VH/view?usp=sharing)
 
----
 
 ## 🛠️ Tech Stack
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -38,13 +41,18 @@ I'm a passionate **MERN Stack Developer** with a keen interest in building scala
 ### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+### Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ### Programming Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
 ### Tools & Technologies
@@ -53,6 +61,16 @@ I'm a passionate **MERN Stack Developer** with a keen interest in building scala
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Razorpay](https://img.shields.io/badge/Razorpay-02042B?style=for-the-badge&logo=razorpay&logoColor=3395FF)
+
+
+
+## 🏆 Achievements & Certifications
+
+- 🌟 **Google Student Ambassador 2025**
+- 🤝 **GSSoC'25 Contributor** (GirlScript Summer of Code)
+- 💻 **100+ problems** solved on CodeChef & LeetCode
+- 📜 **Certifications**: Python · Android Development · Postman API
 
 ---
 
@@ -99,7 +117,7 @@ I'm a passionate **MERN Stack Developer** with a keen interest in building scala
 ---
 
 <div align="center">
-  
- ⭐️ From [Varad Patel](https://github.com/varadpatel13)
+
+⭐️ From [Varad Patel](https://github.com/varadpatel13)
 
 </div>
